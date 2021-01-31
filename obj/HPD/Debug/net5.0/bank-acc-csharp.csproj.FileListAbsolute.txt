@@ -1,0 +1,16 @@
+C:\Users\Larissa\Desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.csprojAssemblyReference.cache
+C:\Users\Larissa\Desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\Desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.AssemblyInfoInputs.cache
+C:\Users\Larissa\Desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.AssemblyInfo.cs
+C:\Users\Larissa\Desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.exe
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.deps.json
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.runtimeconfig.json
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.runtimeconfig.dev.json
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.dll
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\ref\bank-acc-csharp.dll
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\bin\HPD\Debug\net5.0\bank-acc-csharp.pdb
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.dll
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\ref\bank-acc-csharp.dll
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.pdb
+C:\Users\Larissa\desktop\ProjetosGitHub\bank-acc-csharp\obj\HPD\Debug\net5.0\bank-acc-csharp.genruntimeconfig.cache

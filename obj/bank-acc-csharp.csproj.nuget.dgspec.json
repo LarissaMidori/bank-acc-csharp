@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj": {}
+    "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj": {
+    "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj",
+        "projectUniqueName": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj",
         "projectName": "bank-acc-csharp",
-        "projectPath": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj",
+        "projectPath": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\bank-acc-csharp\\bank-acc-csharp.csproj",
         "packagesPath": "C:\\Users\\Larissa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Larissa\\Desktop\\ProjetosGitHub\\bank-acc-csharp\\obj\\",
+        "outputPath": "C:\\Users\\Larissa\\desktop\\ProjetosGitHub\\bank-acc-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Larissa\\AppData\\Roaming\\NuGet\\NuGet.Config"
